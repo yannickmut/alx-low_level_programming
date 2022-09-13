@@ -12,7 +12,7 @@ int main(void)
 	int i;
 
 	for (i = 0; i < 9; i++)
-		_putchar\n(word[i]);
+		_putchar(word[i]);
 	
 
 	return (0);
